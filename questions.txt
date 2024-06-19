@@ -1,0 +1,5 @@
+- Find the (non-trivial) peaks of the waveform
+
+- Find the frequency of the (oscillating) part of the waveform
+
+- Find the delay (also known as latency) between the M1 and S1 signals
